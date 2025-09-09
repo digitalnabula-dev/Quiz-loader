@@ -340,9 +340,20 @@
         }
 
         .wrong-answer {
-            color: #dc2626;
-            text-decoration: line-through;
-        }
+    color: #dc2626 !important;  /* Force red color for wrong answers */
+    text-decoration: line-through;
+    background-color: rgba(220, 38, 38, 0.1) !important;  /* Light red background */
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+/* Ensure wrong answers are visible in dark mode too */
+@media (prefers-color-scheme: dark) {
+    .wrong-answer {
+        color: #ff6b6b !important;  /* Lighter red for dark mode */
+        background-color: rgba(220, 38, 38, 0.2) !important;
+    }
+}
 
         .missed-answer {
             color: #059669;
