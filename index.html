@@ -340,20 +340,12 @@
         }
 
         .wrong-answer {
-    color: #dc2626 !important;  /* Force red color for wrong answers */
-    text-decoration: line-through;
-    background-color: rgba(220, 38, 38, 0.1) !important;  /* Light red background */
-    padding: 2px 4px;
-    border-radius: 3px;
-}
-
-/* Ensure wrong answers are visible in dark mode too */
-@media (prefers-color-scheme: dark) {
-    .wrong-answer {
-        color: #ff6b6b !important;  /* Lighter red for dark mode */
-        background-color: rgba(220, 38, 38, 0.2) !important;
-    }
-}
+            color: #dc2626 !important;
+            text-decoration: line-through;
+            background-color: rgba(220, 38, 38, 0.1) !important;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
 
         .missed-answer {
             color: #059669;
@@ -600,6 +592,11 @@
                 background: #1e40af;
                 border-color: #3b82f6;
                 color: #ffffff;
+            }
+
+            .wrong-answer {
+                color: #ff6b6b !important;
+                background-color: rgba(220, 38, 38, 0.2) !important;
             }
         }
     </style>
@@ -952,100 +949,4 @@
                             <h3>📊 Quiz Statistics</h3>
                             <p><strong>Quiz Title:</strong> ${quizData.title || 'Untitled Quiz'}</p>
                             <p><strong>Date Taken:</strong> ${new Date().toLocaleDateString()}</p>
-                            <p><strong>Final Score:</strong> ${percentage}% (${correctCount} / ${totalQuestions})</p>
-                            <p><strong>Time Taken:</strong> ${timeText}</p>
-                        </div>
-                    </div>
-            `;
-            
-            if (missedQuestions.length > 0) {
-                resultsHTML += '<div class="missed-questions"><h3>📚 Review Missed Questions:</h3>';
-                missedQuestions.forEach(questionIndex => {
-                    resultsHTML += generateMissedQuestionHTML(questionIndex);
-                });
-                resultsHTML += '</div>';
-            } else {
-                resultsHTML += '<div style="text-align: center; color: #059669; font-size: 1.2rem; margin: 20px 0;">🎉 Perfect score! All questions answered correctly!</div>';
-            }
-            
-            resultsHTML += `
-                <div style="text-align: center; margin-top: 30px;">
-                    <button class="menu-button" onclick="printResults()">🖨️ Print PDF Report</button>
-                    <button class="menu-button" onclick="returnToMenu()">🏠 Return to Main Menu</button>
-                </div>
-                </div>
-            `;
-            
-            document.getElementById('resultsContainer').innerHTML = resultsHTML;
-        }
-
-        function generateMissedQuestionHTML(questionIndex) {
-            const question = quizData.questions[questionIndex];
-            const userAnswers_q = userAnswers[questionIndex] || [];
-            const correctAnswers = question.correct_answers || question.correct_areas || [];
-            
-            let html = `<div class="missed-question"><h4>Question ${questionIndex + 1}: ${question.question}</h4>`;
-            
-            const options = question.options || question.click_areas.map(a => a.label);
-            options.forEach((option, index) => {
-                const isCorrect = correctAnswers.includes(index);
-                const wasSelected = userAnswers_q.includes(index);
-                let className = '';
-                let prefix = '';
-                
-                if (isCorrect && wasSelected) { className = 'correct-answer'; prefix = '✅ '; } 
-                else if (isCorrect && !wasSelected) { className = 'missed-answer'; prefix = '✅ (Missed) '; }
-                else if (!isCorrect && wasSelected) { className = 'wrong-answer'; prefix = '❌ '; }
-                else { prefix = '⚪ '; }
-                
-                html += `<div class="answer-review ${className}">${prefix}${option}</div>`;
-            });
-            
-            if (question.explanation) {
-                html += `<div class="explanation"><strong>💡 Explanation:</strong> ${question.explanation}</div>`;
-            }
-            
-            html += '</div>';
-            return html;
-        }
-
-        function printResults() {
-            const originalTitle = document.title;
-            document.title = `Quiz Report - ${quizData.title || 'Quiz'} - ${new Date().toLocaleDateString()}`;
-            window.print();
-            document.title = originalTitle;
-        }
-
-        // --- UTILITY FUNCTIONS ---
-        function shuffleArray(array) {
-            // Fisher-Yates shuffle algorithm to randomize array order
-            for (let i = array.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [array[i], array[j]] = [array[j], array[i]];
-            }
-        }
-
-        function setsEqual(set1, set2) {
-            if (set1.size !== set2.size) return false;
-            for (let item of set1) {
-                if (!set2.has(item)) return false;
-            }
-            return true;
-        }
-
-        function returnToMenu() {
-            stopTimer();
-            // Hide results and show the main menu again
-            document.getElementById('resultsContainer').classList.add('hidden');
-            document.getElementById('mainMenu').classList.remove('hidden');
-            
-            // Reset all state variables for the next quiz
-            quizData = null;
-            currentQuestion = 0;
-            userAnswers = {};
-            timeRemaining = 0;
-            quizStartTime = null;
-        }
-    </script>
-</body>
-</html>
+                            <p><strong>
