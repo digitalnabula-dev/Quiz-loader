@@ -1,0 +1,313 @@
+{
+  "title": "Quiz5",
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "The master alarm system shall activate when the pressure in the main supply lines increases or decreases by____percent.",
+      "options": [
+        "10",
+        "20",
+        "40",
+        "50"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When alarm switches/sensors are remote from the building served and the wiring to them is run underground, a minimum of a __________ set of wires shall be run to a junction box inside the building and independently wired to each of the mandatory master alarm panels.",
+      "options": [
+        "single",
+        "double",
+        "redundant",
+        "duplicate"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Areas for anesthetizing gas delivery shall have the pressure sensors installed on the ___________ side of the individual room zone valve box assembly.",
+      "options": [
+        "source",
+        "patient",
+        "source or patient",
+        "none of the above"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The wiring between each mandatory alarm and initiating device shall not utilize ________________ so that individual signals remain intact.",
+      "options": [
+        "individual wiring",
+        "common conductors",
+        "supervised means",
+        "replaceable circuit boards"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "One of the master alarm panels shall be located in the office or work space of the individual responsible for the maintenance of the medical gas piping system. Where shall the other alarm be located?",
+      "options": [
+        "Office of the authority having jurisdiction",
+        "Source equipment room",
+        "Nurses' station",
+        "Area of continuous observation"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Low voltage wiring from switches or sensors to alarm panels shall be protected by:",
+      "options": [
+        "Conduit",
+        "Free air",
+        "Raceways",
+        "Any of the above"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The pressure in the main line of each medical gas system, the operation and condition of the source of supply and the reserve source (if any) shall be monitored at the ________ alarm.",
+      "options": [
+        "local",
+        "area",
+        "master",
+        "all of the above"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Alarm switches or sensor shall be installed so as to be_____________.",
+      "options": [
+        "removable",
+        "adjustable",
+        "visible",
+        "none of the above"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When a medical gas system is supplied by a manifold or other alternating-type bulk system, which alarm system(s) shall activate indicating when, or just before, changeover occurs?",
+      "options": [
+        "Local",
+        "Area",
+        "Master",
+        "Local, area, and master"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In a cylinder supplied medical gas system with reserve, which alarm system(s) will activate when, or just before the changeover to the reserve supply occurs?",
+      "options": [
+        "Local",
+        "Area",
+        "Master",
+        "Local and master"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The master alarm system shall activate when the main line of the vacuum system drops to or below_________.",
+      "options": [
+        "30 in. Hg",
+        "29.0 in. Hg",
+        "12 in. Hg",
+        "10 in. Hg"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The medical air dew point high alarm from each compressor site will indicate at the master alarm panels when line pressure dew point is greater than______.",
+      "options": [
+        "+44° F",
+        "+22° F",
+        "+32° F",
+        "+35° F"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The instrument air dew point high alarm from each compressor site will indicate at the master alarm panels when the line pressure dew point is greater than_______.",
+      "options": [
+        "-44° F",
+        "-22° F",
+        "-32° F",
+        "-39° F"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Area alarm panels for medical gas systems shall indicate when line pressure in the area being monitored increases or decreases by _____ percent.",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Area alarm sensors for positive pressure vital life support and critical care areas shall be located on which side of the zone valve box assemblies?",
+      "options": [
+        "Patient room side",
+        "Outlet/inlet side",
+        "Downstream side",
+        "All of the above"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Computer systems used as a master alarm shall be continuously attended or shall provide remote signaling of responsible parties through___________.",
+      "options": [
+        "pagers",
+        "telephone",
+        "cell phone",
+        "any of the above"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "High carbon monoxide level in the medical air system shall indicate at each local alarm site. At what level shall the alarm activate?",
+      "options": [
+        "10 PPM or higher",
+        "100 PPM or higher",
+        "1000 PPM or higher",
+        "None of the above"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "All master, area, and local alarm systems shall include separate ______ and _______ indicators for each condition monitored.",
+      "options": [
+        "high; low",
+        "red; blue",
+        "on; off",
+        "visual; audible"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "All medical gas alarm systems shall have a ________ audible indication for each condition monitored.",
+      "options": [
+        "adjustable",
+        "cancelable",
+        "optional",
+        "all of the above"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is required of the alarm system if another alarm condition occurs while the audible alarm is silenced?",
+      "options": [
+        "Nothing, the visual indicator is still on",
+        "The visual indicator will blink",
+        "The audible signal will beep",
+        "Re-initiation of the audible signal"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    }
+  ],
+  "summary": {
+    "total_questions": 20,
+    "time_limit_minutes": 60,
+    "time_per_question_minutes": 3.0,
+    "note": "total_time_used_seconds will update dynamically as questions are attempted.",
+    "total_time_used_seconds": 0
+  }
+}

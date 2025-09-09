@@ -1,0 +1,311 @@
+{
+  "title": "Quiz1",
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "An alarm system that monitors the operation and condition of the source of supply, the reserve source, and the pressure in the main lines of each medical gas and vacuum piping system is a(n) ____________ alarm.",
+      "options": [
+        "area",
+        "master",
+        "local",
+        "category 3"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Nitrous oxide and carbon dioxide central supply systems using cylinders or containers shall be prevented from reaching temperatures below______.",
+      "options": [
+        "20° F",
+        "35° F",
+        "-20° F",
+        "-40° F"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The chapter in NFPA 99 that covers the different risk categories and when a documented risk assessment is required is chapter_____.",
+      "options": [
+        "5",
+        "3",
+        "11",
+        "4"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A manifold system for gas cylinders (HP x HP) is required to have a minimum of how many cylinders on each header?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Facility systems in which failure of such equipment is likely to cause minor injury to patients or caregivers shall be designed to meet ____________ requirements.",
+      "options": [
+        "Category 1",
+        "Category 2",
+        "Category 3",
+        "Category 4"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "How many master alarm contacts must a newly installed EOSC have?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Chapter 5 of NFPA 99 covers the performance, maintenance, installation, and testing of nonflammable medical gas systems with an operating pressure below:",
+      "options": [
+        "250 PSI",
+        "150 PSI",
+        "200 PSI",
+        "300 PSI"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Nitrogen and instrument air are known as _____________ gases.",
+      "options": [
+        "medical support",
+        "medical anesthetizing",
+        "respiratory",
+        "combustible"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Cryogenic fluid central supply systems for oxygen shall comply with_______.",
+      "options": [
+        "NFPA 55",
+        "NFPA 101",
+        "ASSE 6000",
+        "CGA M1"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A patient care space in which failure of the equipment or system is likely to cause major injury, or death of patients is a ________ space.",
+      "options": [
+        "Category 2",
+        "Category 1",
+        "Category 3",
+        "Category 4"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Locations for central supply systems shall _______________________.",
+      "options": [
+        "have electrical devices mounted 5' above the floor",
+        "use explosion proof electrical devices",
+        "protect electrical devices from physical damage",
+        "label electrical devices with caution tags"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "All of chapter 5 of NFPA 99 - 2021 edition applies to existing facilities",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Manifolds for gas cylinders shall have two equal headers, each with sufficient capacity for ____ average day's supply.",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "6"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Line pressure regulators for bulk cryogenic liquid systems shall be of a ____________ design.",
+      "options": [
+        "balanced",
+        "triplex",
+        "non-relieving",
+        "single stage"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Control equipment for final line pressure regulators, relief valves, and separate piped distribution networks operating at different pressures, that is physically remote from the supply system shall be installed within a ______________________.",
+      "options": [
+        "limited combustible enclosure",
+        "non-combustible enclosure",
+        "ventilated enclosure",
+        "secure enclosure"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "An existing system that is not in strict compliance with NFPA 99 - 2021 edition shall be permitted to be continued in use, unless the _____ has determined such use constitutes a distinct hazard to life.",
+      "options": [
+        "Fire marshal",
+        "Hospital governing body",
+        "Directory of respiratory",
+        "Authority having jurisdiction"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Central supply systems which handle oxygen at gauge pressures greater than _______ PSI shall have interconnecting hoses which contain no ___________ materials.",
+      "options": [
+        "435; polymeric",
+        "300; polymeric",
+        "350; braided hose",
+        "300; braided hose"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Manifolds for gas cylinders using high pressure cylinders only shall include ____________________________.",
+      "options": [
+        "an audible alarm system for changeover",
+        "an automatic means of alternating the two headers to place either header in the primary or secondary position",
+        "a minimum work space of 3 ft. around the cabinet",
+        "a means to conserve the gas produced by evaporation"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The emergency oxygen supply connection (EOSC) shall have a minimum of _____ ft. of clearance around the EOSC for connection of a temporary source.",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Emergency oxygen supply connections shall be installed when the oxygen supply is _________________________ the building served.",
+      "options": [
+        "outside of, and adjacent to",
+        "outside of, and remote from",
+        "incorporating an in-building reserve within",
+        "within"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    }
+  ],
+  "summary": {
+    "total_questions": 20,
+    "time_limit_minutes": 60,
+    "time_per_question_minutes": 3.0,
+    "note": "total_time_used_seconds will update dynamically as questions are attempted.",
+    "total_time_used_seconds": 0
+  }
+}

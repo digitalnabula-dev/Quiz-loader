@@ -1,0 +1,343 @@
+{
+  "title": "Quiz2",
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "Medical air dryers shall be designed to provide air at a maximum dew point that is below the frost point of _____ at 50 to 55 PSI.",
+      "options": [
+        "32° F",
+        "35° F",
+        "-32° F",
+        "-40° F"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The medical air intake shall be located a minimum distance of _____ ft. from ventilating system exhausts, fuel storage vents, combustion vents, plumbing vents, and vacuum discharges.",
+      "options": [
+        "10",
+        "20",
+        "25",
+        "30"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Moisture separation / removal starts with the _________ on medical air systems.",
+      "options": [
+        "dryers",
+        "auto drains",
+        "aftercoolers",
+        "pre-filters"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The medical air intake shall be located a minimum distance of _____ ft. from any door, window, or other opening in the building.",
+      "options": [
+        "25",
+        "10",
+        "15",
+        "20"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical air intakes should be inspected at least __________.",
+      "options": [
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "Quarterly"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical air dewpoint shall be monitored and shall activate a local alarm and all master alarms when the dewpoint at system pressure exceeds______.",
+      "options": [
+        "32° F",
+        "35° F",
+        "39° F",
+        "40° F"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical air compressor intake piping shall be turned down and ________ to protect against the entry of debris.",
+      "options": [
+        "screened",
+        "capped",
+        "monitored",
+        "locked"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical air quality shall be monitored for carbon monoxide and shall activate an alarm when the CO level exceeds________.",
+      "options": [
+        "5 PPM",
+        "10 PPM",
+        "20 PPM",
+        "2 PPM"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Quality of medical air shall be required to__________________________.",
+      "options": [
+        "meet the requirements of medical air USP",
+        "have no detectable liquid hydrocarbons",
+        "have less than 25 PPM gaseous hydrocarbons",
+        "all of the above"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical air sources shall be used only for_________________.",
+      "options": [
+        "human respiratory applications",
+        "air-operating devices",
+        "instrument air",
+        "all of the above"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical air compressor systems shall have a(n) _________ means to prevent backflow through all off-cycle compressors.",
+      "options": [
+        "manual",
+        "automatic",
+        "semi-automatic",
+        "all of the above"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical air compressor systems shall have a pressure relief valve set at _____ percent above line pressure.",
+      "options": [
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Receivers for medical air shall be equipped with_______________.",
+      "options": [
+        "relief valves",
+        "automatic and manual drains",
+        "sight glass",
+        "all of the above"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When the backup or lag compressor is running, a(n) _________ alarm shall activate.",
+      "options": [
+        "low pressure",
+        "area",
+        "local",
+        "all of the above"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical air filters shall be located immediately upstream of the____________.",
+      "options": [
+        "after coolers",
+        "receiver",
+        "pressure indicator",
+        "final line regulator"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical air filters shall be sized for 100 percent of the system peak calculated demand and be rated for a minimum of ______ percent efficiency at ______ micron or greater.",
+      "options": [
+        "95; .5",
+        "98; 1",
+        "100; .1",
+        "none of the above"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical air shall be sampled at a______NPS valved sample port downstream of the final line pressure regulator.",
+      "options": [
+        "3/4\"",
+        "1/2\"",
+        "1/4\"",
+        "1/8\""
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Where medical air piping systems at different operating pressures are required, the piping shall separate after the___________.",
+      "options": [
+        "filters",
+        "final line regulators",
+        "relief valve",
+        "source valve"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical air compressors shall be provided with a(n)__________ restart function such that the compressors will be restarted after a power interruption.",
+      "options": [
+        "manual",
+        "automatic",
+        "manual or automatic",
+        "none of the above"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The compressor air intakes shall be located outdoors above roof level at a minimum distance of ______ above the ground.",
+      "options": [
+        "40 ft.",
+        "30 ft.",
+        "20 ft.",
+        "10 ft."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Tip seals are part of which compressor technology?",
+      "options": [
+        "oil-less reciprocating",
+        "oil-free rotary screw",
+        "oil-free rotary tooth",
+        "oil-less scroll"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Compressors that are monitored for gaseous hydrocarbons shall be monitored on a(n) ___________ basis.",
+      "options": [
+        "annual",
+        "quarterly",
+        "monthly",
+        "daily"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    }
+  ],
+  "summary": {
+    "total_questions": 22,
+    "time_limit_minutes": 60,
+    "time_per_question_minutes": 2.73,
+    "note": "total_time_used_seconds will update dynamically as questions are attempted.",
+    "total_time_used_seconds": 0
+  }
+}

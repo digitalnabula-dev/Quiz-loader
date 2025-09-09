@@ -1,0 +1,343 @@
+{
+  "title": "Quiz4",
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "Immediately outside each vital life-support, critical care and anesthetizing location of moderate sedation, deep sedation, or general anesthesia for emergency situations, there shall be located a(n) _____________ for each medical gas, vacuum and WAGD system.",
+      "options": [
+        "area alarm",
+        "zone valve",
+        "relief valve",
+        "fire extinguisher"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Zone valves shall not be located in a _________ with station outlets/inlets that it controls",
+      "options": [
+        "room",
+        "ceiling",
+        "corridor",
+        "wall"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Station outlets/inlets of manufactured assemblies that employ hose or flexible connections to the piping system that are not fully and immediately accessible, shall use ____________ connectors.",
+      "options": [
+        "quick coupler",
+        "D.I.S.S.",
+        "demand check",
+        "all of the above"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The scale range of vacuum indicators shall be _________ gauge Hg.",
+      "options": [
+        "0-12\"",
+        "1-29.9\"",
+        "0-30\"",
+        "0-30.9\""
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In-line check valves shall not have:",
+      "options": [
+        "In-line serviceability",
+        "Brazed extensions",
+        "Threaded connections",
+        "Threaded 1/8\" purge ports"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Manufactured assemblies employing flexible hose or flexible connectors internally with station outlets/inlets not immediately accessible shall be permitted to omit _______________________ valves in ____________ systems.",
+      "options": [
+        "primary and secondary; pressure",
+        "primary and secondary; vacuum",
+        "primary; vacuum",
+        "secondary; vacuum"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Optional valves installed to isolate or shut off piping for service to individual rooms or areas are _________ valves.",
+      "options": [
+        "source",
+        "service",
+        "zone",
+        "in-line"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Each station outlet/inlet for medical gas or vacuum shall be________________.",
+      "options": [
+        "interchangeable",
+        "gas-specific",
+        "threaded",
+        "quick-coupler"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The main line valve shall be located on the __________ side of the source valve, and ___________ of the source room.",
+      "options": [
+        "facility; inside",
+        "upstream; outside",
+        "facility; outside",
+        "downstream; inside"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The factory-installed tubing on station outlets/inlets shall extend no further than ______ from the body of the terminal.",
+      "options": [
+        "6\"",
+        "8\"",
+        "10\"",
+        "12\""
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Factory-installed tubing on station outlets shall not be less than_______NPS.",
+      "options": [
+        "1/8\"",
+        "3/16\"",
+        "1/4\"",
+        "5/16\""
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Station outlets that operate at a pressure in excess of _________ shall be either D.I.S.S. or be designed to relieve pressure prior to removal of adaptor.",
+      "options": [
+        "50 PSI",
+        "60 PSI",
+        "70 PSI",
+        "80 PSI"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The scale range of positive pressure analog indicators shall have the normal operating pressure fall within the ____________ of the gauge scale.",
+      "options": [
+        "middle",
+        "middle third",
+        "lower third",
+        "top third"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Vertical pipelines supplied from a main line shall be provided with_____________.",
+      "options": [
+        "riser valves",
+        "service valves",
+        "source valves",
+        "in-line valves"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "To facilitate service, testing or replacement, all pressure switches and mainline gauges downstream of the source valve shall be provided with a________________.",
+      "options": [
+        "check valve",
+        "shut-off valve",
+        "demand check fitting",
+        "D.I.S.S. fitting"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "All valves except zone valve box assemblies shall be___________________.",
+      "options": [
+        "in a secured area",
+        "locked or latched",
+        "located above ceilings but accessible",
+        "all of the above"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "With the approval of the authority having jurisdiction, in what areas shall the shut-off valves be permitted to be secured to prevent inappropriate access?",
+      "options": [
+        "Critical care",
+        "Maternity",
+        "Anesthetizing",
+        "Psychiatric or pediatric"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Shut-off valves for positive pressure gases shall_____________________________.",
+      "options": [
+        "have extensions for brazing",
+        "permit in-line serviceability",
+        "be cleaned for oxygen service",
+        "all of the above"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A shut-off valve shall be placed at the immediate connection of each source system to the distribution piping system. What is the name given to the valve?",
+      "options": [
+        "Main",
+        "Supply",
+        "Source",
+        "Isolation"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A shut-off valve shall be provided in the main supply line when the source valve is not accessible from within the building being served. What is the name given to this valve?",
+      "options": [
+        "Main",
+        "Supply",
+        "Service",
+        "Zone"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the name given to the shut-off valve installed on all lateral branch piping from a main or riser?",
+      "options": [
+        "Riser",
+        "Service",
+        "Zone",
+        "Main"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What valves shall be readily operable from a standing position in the corridor on the same floor they serve?",
+      "options": [
+        "Zone",
+        "Service",
+        "Riser",
+        "Main"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    }
+  ],
+  "summary": {
+    "total_questions": 22,
+    "time_limit_minutes": 60,
+    "time_per_question_minutes": 2.73,
+    "note": "total_time_used_seconds will update dynamically as questions are attempted.",
+    "total_time_used_seconds": 0
+  }
+}

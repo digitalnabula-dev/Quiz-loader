@@ -1,0 +1,279 @@
+{
+  "title": "Quiz3",
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "If WAGD is produced by the medical vacuum source, the total concentration of oxidizers shall be below____percent.",
+      "options": [
+        "23.6",
+        "23.5",
+        "19.5",
+        "21.5"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Vacuum receivers shall be capable to withstanding a gauge vacuum of ______ inches of mercury.",
+      "options": [
+        "29",
+        "30.5",
+        "30",
+        "all of the above"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Piping between the vacuum pump and the source shut-off valve shall be permitted to be__________.",
+      "options": [
+        "stainless",
+        "galvanized",
+        "black steel",
+        "all of the above"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Category 1 medical-surgical vacuum sources shall, at a minimum, consist of _____ or more vacuum pumps.",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Category 1 medical-surgical vacuum sources shall consist of an automatic means to prevent ________ through any off-cycle vacuum pump.",
+      "options": [
+        "vacuum",
+        "back pressure",
+        "backflow",
+        "all of the above"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The medical-surgical vacuum receiver shall be made serviceable without shutting down the system by_________________.",
+      "options": [
+        "an isolation valve where tee'd into the main line",
+        "being valved at the end of a valved isolation line",
+        "a three-valve bypass",
+        "any of the above"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical vacuum system source exhaust shall be located at least____ft. from any door, window, air intake or other openings in the building or places of public assembly.",
+      "options": [
+        "5",
+        "10",
+        "20",
+        "25"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the name of the filters that capture the oil mist / vapor particles and drip them back into the oil reservoir on an oil-lubricated rotary vane vacuum pump?",
+      "options": [
+        "Oil filters",
+        "Exhaust filters",
+        "Pre filters",
+        "Inlet filters"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "_________ shall not be introduced into the medical-surgical vacuum system for disposal",
+      "options": [
+        "Liquid",
+        "Air",
+        "Oxygen",
+        "Nitrous oxide"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical vacuum source systems shall be controlled to ensure equal runtime or wear on all pumps.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical vacuum source systems shall provide ________ activation of pump(s) as necessary to supply the system demand.",
+      "options": [
+        "manual",
+        "automatic",
+        "manual or automatic",
+        "none of the above"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The medical-surgical vacuum exhaust shall be turned down and screened. The screening shall be fabricated using what type of material?",
+      "options": [
+        "Steel mesh",
+        "Steel wire",
+        "Any non-corroding material",
+        "Any of the above"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Vacuum exhaust lines shall be labeled with any method that will distinguish it as vacuum exhaust",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Category 1 medical-surgical vacuum systems shall activate which alarm when the backup or lag pump is running?",
+      "options": [
+        "Fire",
+        "Area",
+        "Local",
+        "All of the above"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical-surgical vacuum sources shall be located in a room designed to maintain the ambient temperature range as stipulated by:",
+      "options": [
+        "The verifier",
+        "The facility",
+        "The AHJ",
+        "The manufacturer"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical vacuum systems require:",
+      "options": [
+        "Duplex exhaust filtration",
+        "Simplex exhaust filtration",
+        "Inlet and exhaust filtration",
+        "Duplex inlet filtration"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Dry rotary vane vacuum pumps should have the _______ checked for wear as recommended by the manufacturer",
+      "options": [
+        "motors",
+        "filters",
+        "vanes",
+        "blower fans"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical vacuum filters are not required for _______ pumps.",
+      "options": [
+        "oil-lubricated rotary vane",
+        "dry rotary claw",
+        "liquid ring",
+        "dry rotary vane"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    }
+  ],
+  "summary": {
+    "total_questions": 18,
+    "time_limit_minutes": 60,
+    "time_per_question_minutes": 3.33,
+    "note": "total_time_used_seconds will update dynamically as questions are attempted.",
+    "total_time_used_seconds": 0
+  }
+}

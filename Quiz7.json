@@ -1,0 +1,313 @@
+{
+  "title": "Quiz7",
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "Persons who maintain medical gas systems shall be qualified to perform maintenance operations with qualifications demonstrated by____________.",
+      "options": [
+        "an ASSE 6040 credential",
+        "an ASSE 6030 credential",
+        "training and certification through the healthcare facility",
+        "any of the above"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Scheduled maintenance for equipment and procedures shall be established through the __________________ of the facility.",
+      "options": [
+        "engineering records",
+        "equipment history",
+        "program schedules",
+        "risk assessment"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Oxygen and medical air outlets serving critical care areas shall allow a transient flow rate of _________.",
+      "options": [
+        "3.5 SCFM",
+        "5.0 SCFM",
+        "6.0 SCFM",
+        "3.0 SCFM"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "___________ shall not be introduced into the medical vacuum or WAGD system for disposal.",
+      "options": [
+        "Particulate",
+        "Liquid",
+        "Nitrogen",
+        "All of the above"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Central supply systems for nonflammable medical gases shall be inspected _______________.",
+      "options": [
+        "quarterly",
+        "semi-annually",
+        "annually",
+        "as determined by the facility"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A(n) ______________ review of bulk system capacity shall be conducted to ensure the source system has sufficient capacity.",
+      "options": [
+        "quarterly",
+        "semi-annual",
+        "annual",
+        "as determined by the facility"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Carbon monoxide monitors shall be calibrated at least ____________.",
+      "options": [
+        "annually",
+        "quarterly",
+        "semi-annually",
+        "bi-annually"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical vacuum station inlet terminal performance shall be tested _______________________.",
+      "options": [
+        "annually",
+        "per the manufacturer's instructions",
+        "as determined by the installer",
+        "on a regular preventative maintenance schedule"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical vacuum inlets shall draw__________SCFM, without reducing the vacuum pressure below _______ at any adjacent station inlet.",
+      "options": [
+        "3.5; 24\"",
+        "5.0; 24\"",
+        "6.0; 12\"",
+        "3.0; 12\""
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical vacuum station inlet terminal performance shall be tested based on a flow of ___________ into a station inlet while __________ checking the vacuum level.",
+      "options": [
+        "free air; sequentially",
+        "vacuum; simultaneously",
+        "vacuum; periodically",
+        "free air; simultaneously"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Non-stationary manufactured assemblies which employ flexible connections between the user terminal and the piping system shall be tested for leaks per the manufacturer's recommendation, or every _____ months.",
+      "options": [
+        "6",
+        "12",
+        "18",
+        "24"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Area alarms shall be tested to verify the warning signals for all vital life support and critical care areas if the pressure in the piping system increases or decreases by_______.",
+      "options": [
+        "60%",
+        "40%",
+        "20%",
+        "10%"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "All gas outlets with a gauge pressure of 50 PSI shall deliver______SCFM with a pressure drop of not more than______PSI and static pressure of 50-55 PSI.",
+      "options": [
+        "3.5; 5",
+        "5; 3.5",
+        "6; 5",
+        "5; 6"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical air purity for compressor systems shall be analyzed prior to the source valve being opened. Samples taken at the system sample port for carbon monoxide shall not exceed _________.",
+      "options": [
+        "2 PPM",
+        "10 PPM",
+        "25 PPM",
+        "500 PPM"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Support gas outlets shall deliver______SCFM with a pressure drop of not more than 5 PSI gauge and static pressure of_________PSI.",
+      "options": [
+        "5; 160-185",
+        "5; 50-55",
+        "3.5; 80-90",
+        "6; 40-60"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Nitrogen and instrument air supply systems are not to be used for patient care, but are used for powering pneumatic devices and should be considered _________ gases.",
+      "options": [
+        "hazardous",
+        "respiratory",
+        "support",
+        "all of the above"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Labels for shut-off valves shall be updated________________________.",
+      "options": [
+        "annually",
+        "when determined by risk assessment",
+        "when modifications are made",
+        "periodically"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The ___________________ shall be responsible for developing and enforcing the permit-to-work rules for the piped medical gas and vacuum systems.",
+      "options": [
+        "Authority Having Jurisdiction",
+        "Responsible Facility Authority",
+        "Director of Engineering",
+        "Medical Gas Verifier"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The person(s) designated as the Responsible Facility Authority shall be _________ to interpret, implement and advise on this Code.",
+      "options": [
+        "Qualified",
+        "Trained",
+        "Permitted",
+        "Willing"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The Responsible Facility Authority must be qualified to ASSE 6010, 6020, 6030 or 6040 and must be _________________ on the specific equipment and design of that facility.",
+      "options": [
+        "trained by the manufacturer",
+        "aware of",
+        "technically competent",
+        "able to identify"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    }
+  ],
+  "summary": {
+    "total_questions": 20,
+    "time_limit_minutes": 60,
+    "time_per_question_minutes": 3.0,
+    "note": "total_time_used_seconds will update dynamically as questions are attempted.",
+    "total_time_used_seconds": 0
+  }
+}

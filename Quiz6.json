@@ -1,0 +1,232 @@
+{
+  "title": "Quiz6",
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "Pipe labels shall be located at intervals of not more than _____ ft.",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The standard operating pressure for a nitrogen system is _______, and the correct background label color is _________.",
+      "options": [
+        "50-55; blue",
+        "50-55; black",
+        "50-185; black",
+        "160-185; white"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Station outlets and inlets shall be identified as to the name or ___________  for the specific medical gas or vacuum provided.",
+      "options": [
+        "chemical symbol",
+        "pressure",
+        "maximum flow",
+        "none of the above"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "___________________ systems that are breached, including additions, renovations, and replacements, shall be inspected and tested.",
+      "options": [
+        "Positive pressure",
+        "All",
+        "Critical care",
+        "Oxygen, medical air, and nitrous oxide"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Breached portions of the systems subject to inspection and testing shall be confined to only the specific altered zone that is located __________ for vacuum systems, and ___________ for pressure gases at the point of___________.",
+      "options": [
+        "upstream; downstream; intrusion",
+        "upstream; downstream; inspection",
+        "downstream; upstream; inspection",
+        "downstream; upstream; intrusion"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Where positive pressure gas piping systems operate at pressures other than the standard gauge pressure, the ______________ shall be added to labeling.",
+      "options": [
+        "operating pressure",
+        "direction of flow",
+        "high pressure designation",
+        "modified color"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "To identify medical gas or vacuum system piping, the piping shall be labeled by_________________.",
+      "options": [
+        "stenciling name of system",
+        "adhesive markers",
+        "stenciling the chemical symbol",
+        "any of the above"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Inspection and testing shall be performed on all new piped gas systems, additions, renovations, temporary installations or repaired systems, to assure the facility that all applicable provisions of NFPA 99 have been adhered to, and system integrity has been achieved or maintained. What is required of the individual doing the testing or inspecting?",
+      "options": [
+        "Have two years experience",
+        "Have a documented procedure",
+        "Be a certified tester",
+        "None of the above"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Breached portions of the systems subject to inspection and testing shall be confined to only the specific altered zone, or area that is downstream for pressure gases at the point of intrusion. Where shall a system be declared breached?",
+      "options": [
+        "Physical separation of pipeline",
+        "System component removal",
+        "Addition of system components",
+        "Any of the above"
+      ],
+      "correct_answers": [
+        3
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical gas piping is permitted to be painted.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Installers for medical gas systems must be qualified to ASSE _______.",
+      "options": [
+        "6005",
+        "6010",
+        "6030",
+        "6040"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "An installer with an ASSE 6010 credential shall not use their certification to oversee installation by non-certified personnel.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical gas system inspections shall be performed by an individual meeting the requirements of __________",
+      "options": [
+        "ASSE 6040",
+        "ASSE 6020",
+        "ASSE 6010",
+        "ASSE 6005"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Medical gas verification testing must be performed by an individual meeting the requirements of _________",
+      "options": [
+        "ASSE 6010",
+        "ASSE 6020",
+        "ASSE 6030",
+        "ASSE 6040"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Inspections are permitted to be performed by the installing contractor.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "",
+      "time_used_seconds": 0
+    }
+  ],
+  "summary": {
+    "total_questions": 15,
+    "time_limit_minutes": 60,
+    "time_per_question_minutes": 4.0,
+    "note": "total_time_used_seconds will update dynamically as questions are attempted.",
+    "total_time_used_seconds": 0
+  }
+}

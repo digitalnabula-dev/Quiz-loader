@@ -1,0 +1,763 @@
+{
+  "title": "6040_exam_50ct",
+  "time_limit_minutes": 60,
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "According to NFPA 99, a Category 1 piped gas system is one where a failure is likely to cause what level of harm?",
+      "options": [
+        "Minor injury to patients or staff.",
+        "Discomfort to patients, but no injury.",
+        "Major injury or death of patients, staff, or visitors.",
+        "No physical impact on patient care."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This is the direct definition of a Category 1 system, representing the highest level of risk. * Reference: NFPA 99, 2024 Ed., Section 4.1.1. Reference: NFPA 99, 2024 Ed., Section 4.1.1",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the primary rule regarding the continued use of an existing Category 1 system that is not in strict compliance with the current NFPA 99 code?",
+      "options": [
+        "It must be immediately replaced regardless of its condition.",
+        "It can be used indefinitely without any review.",
+        "It can be used unless the AHJ determines it constitutes a distinct hazard to life.",
+        "It must be upgraded to meet all new requirements within one year."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This \"grandfather clause\" allows older systems to remain, but safety is paramount. The Authority Having Jurisdiction (AHJ) has the final say on whether a system is too hazardous to continue operating as-is. * Reference: NFPA 99, 2024 Ed., Section 5.1.1.3. Reference: NFPA 99, 2024 Ed., Section 5.1.1.3",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following components are permitted to be located together in the same indoor room or enclosure for a Category 1 system?",
+      "options": [
+        "An oxygen manifold and a medical air compressor.",
+        "A medical air compressor and a medical-surgical vacuum source.",
+        "A nitrous oxide manifold and a fuel-fired boiler.",
+        "A cryogenic liquid oxygen container and a WAGD producer."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The code allows motor-driven equipment like compressors and vacuum pumps to be located together. However, it prohibits co-locating oxidizing gas sources (like oxygen manifolds) with motor-driven equipment. * Reference: NFPA 99, 2024 Ed., Section 5.1.3.3.1.3. Reference: NFPA 99, 2024 Ed., Section 5.1.3.3.1.3",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "During the brazing of copper medical gas piping, what must be done to prevent the formation of copper oxide on the inside surfaces of the joint?",
+      "options": [
+        "The joint must be heated very rapidly.",
+        "A special high-temperature flux must be applied to the interior.",
+        "The joint must be continuously purged with oil-free, dry nitrogen NF.",
+        "The joint must be cooled with water immediately after brazing."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "The nitrogen purge displaces oxygen inside the pipe during heating, which prevents the formation of a dark, flaky layer of copper oxide that could contaminate the\ngas stream. * Reference: NFPA 99, 2024 Ed., Section 5.1.10.4.5.1. Reference: NFPA 99, 2024 Ed., Section 5.1.10.4.5.1",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A master alarm system for a Category 1 installation requires at least two panels. Where must these panels be located?",
+      "options": [
+        "One in the engineering office and one in the main lobby.",
+        "In the office of the person responsible for maintenance and in an area of continuous observation.",
+        "Both panels must be located side-by-side in the main mechanical room.",
+        "One at the main nursing station and one in the CEO's office."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This dual-location requirement ensures that an alarm is seen by both the person technically responsible for the systems and by someone who is always on duty (e.g., at a security desk or telephone switchboard). * Reference: NFPA 99, 2024 Ed., Section 5.1.9.2.1. Reference: NFPA 99, 2024 Ed., Section 5.1.9.2.1",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the standard operating pressure range for Oxygen in a Category 1 system?",
+      "options": [
+        "345-380 kPa (50-55 psi)",
+        "1100-1275 kPa (160-185 psi)",
+        "690-760 kPa (100-110 psi)",
+        "205-240 kPa (30-35 psi)"
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This is the standard pressure specified in the code's main identification table for oxygen and most other medical gases at the station outlet. * Reference: NFPA 99, 2024 Ed., Table 5.1.11. Reference: NFPA 99, 2024 Ed., Table 5.1.11",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What type of shutoff valve must be installed immediately outside each anesthetizing location?",
+      "options": [
+        "A source valve",
+        "A main line valve",
+        "A zone valve",
+        "A service valve"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Zone valves are required to isolate specific areas or rooms, and the code explicitly states they shall be installed immediately outside each anesthetizing location. * Reference: NFPA 99, 2024 Ed., Section 5.1.4.6.2(2). Reference: NFPA 99, 2024 Ed., Section 5.1.4.6.2(2)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In a Category 1 medical air compressor system, what is the minimum number of compressors required?",
+      "options": [
+        "One, as long as it is oversized for the peak demand.",
+        "Two, sufficient to serve the peak demand with the largest single compressor out of service.",
+        "Three, with one designated as primary, one secondary, and one for backup.",
+        "One, with a connected reserve header of high-pressure cylinders."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This requirement for redundancy ensures a continuous supply of medical air even if one compressor fails or is taken offline for maintenance. A single point of failure is not acceptable for a Category 1 system. * Reference: NFPA 99, 2024 Ed., Section 5.1.3.6.3.9(B). Reference: NFPA 99, 2024 Ed., Section 5.1.3.6.3.9(B)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which test, performed by the installer, involves pressurizing the piping to 1.5 times the system working pressure?",
+      "options": [
+        "Initial Piping Blowdown",
+        "Standing Pressure Test",
+        "Initial Pressure Test",
+        "Cross-Connection Test"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This high-pressure test (1.5x working pressure) is performed by the installer after the piping is assembled but before components are installed to ensure all\njoints are leak-free. * Reference: NFPA 99, 2024 Ed., Section 5.1.12.2.3.4. Reference: NFPA 99, 2024 Ed., Section 5.1.12.2.3.4",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the primary responsibility of the 'Responsible Facility Authority' regarding medical gas systems?",
+      "options": [
+        "To personally perform all repairs and maintenance.",
+        "To develop and manage a permit-to-work system for all maintenance, repair, or construction.",
+        "To order medical gas cylinders and schedule deliveries.",
+        "To conduct the final verification testing on all new installations."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The Responsible Facility Authority's primary role is management and safety oversight. The permit-to-work system is the formal process to ensure patient safety and continuity of care are maintained any time a system is breached. * Reference: NFPA 99, 2024 Ed., Section 5.1.14.2.1. Reference: NFPA 99, 2024 Ed., Section 5.1.14.2.1",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the correct background/text color combination for Medical Air piping labels?",
+      "options": [
+        "Green/White",
+        "Blue/White",
+        "Yellow/Black",
+        "Black/White"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Table 5.1.11 specifies a yellow background with black text as the standard identification for Medical Air. * Reference: NFPA 99, 2024 Ed., Table 5.1.11. Reference: NFPA 99, 2024 Ed., Table 5.1.11",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A Category 2 medical air compressor system differs from a Category 1 system in that it is permitted to be:",
+      "options": [
+        "Located outdoors without an enclosure.",
+        "Simplex (a single compressor).",
+        "Used for nonmedical applications.",
+        "Installed without an aftercooler or dryer."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "For Category 2 systems, where the risk of harm from failure is minor, the code relaxes the redundancy requirement, permitting a single (simplex) compressor. The facility must have an emergency plan to deal with its failure. * Reference: NFPA 99, 2024 Ed., Section 5.2.3.5(1). Reference: NFPA 99, 2024 Ed., Section 5.2.3.5(1)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the purpose of the initial piping purge test performed by the installer?",
+      "options": [
+        "To check for cross-connections between systems.",
+        "To verify the system can hold pressure for 24 hours.",
+        "To remove any particulate matter from the distribution piping.",
+        "To analyze the purity of the gas in the pipeline."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This test uses a high-volume, intermittent flow of nitrogen to blow out any dust, debris, or other contaminants left over from the construction process before outlets are installed. * Reference: NFPA 99, 2024 Ed., Section 5.1.12.2.5. Reference: NFPA 99, 2024 Ed., Section 5.1.12.2.5",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "An area alarm panel is required to activate when the pressure in a medical gas line deviates from the normal operating pressure by how much?",
+      "options": [
+        "5%",
+        "10%",
+        "20%",
+        "50%"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Both area and master alarms must activate when the pressure rises or falls by 20% from the normal\nsetpoint. This provides a timely warning before the pressure becomes critically high or low. * Reference: NFPA 99, 2024 Ed., Section 5.1.9.4.2. Reference: NFPA 99, 2024 Ed., Section 5.1.9.4.2",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the minimum frequency for testing manufactured assemblies that use flexible connectors, such as nonstationary booms?",
+      "options": [
+        "Every 6 months.",
+        "Every 12 months.",
+        "Every 18 months or as determined by a risk assessment.",
+        "Only when a leak is suspected."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This periodic maintenance requirement ensures the integrity of flexible components that are more prone to wear and tear than rigid piping. * Reference: NFPA 99, 2024 Ed., Section 5.1.14.4.3.1(A). Reference: NFPA 99, 2024 Ed., Section 5.1.14.4.3.1(A)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The use of adapters or conversion fittings to adapt one gas-specific fitting to another is:",
+      "options": [
+        "Permitted only in emergencies.",
+        "Permitted if performed by an ASSE 6040 certified technician.",
+        "Prohibited.",
+        "Allowed for temporary connections only."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "The code strictly prohibits the use of adapters that bypass the gas-specific safety systems. This is a fundamental rule to prevent accidentally connecting the wrong gas to a patient. * Reference: NFPA 99, 2024 Ed., Section 5.1.3.2.1. Reference: NFPA 99, 2024 Ed., Section 5.1.3.2.1",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In a Category 3 system, how does the requirement for the final line pressure controls differ from a Category 1 system?",
+      "options": [
+        "They are not required.",
+        "They are permitted to be simplex (not redundant).",
+        "They must be triplex (three regulators).",
+        "They must be located inside the room of use."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Similar to the compressor requirement, the need for redundant pressure regulators is relaxed for Category 3 systems due to the lower risk associated with system failure. * Reference: NFPA 99, 2024 Ed., Section 5.3.3.5.5. Reference: NFPA 99, 2024 Ed., Section 5.3.3.5.5",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the maximum allowable interval for pipe supports for a DN25 (1-inch) copper medical gas pipe?",
+      "options": [
+        "1.8 m (6 ft)",
+        "2.4 m (8 ft)",
+        "3.0 m (10 ft)",
+        "4.6 m (15 ft)"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The code provides a specific table for maximum support spacing based on pipe size to prevent sagging and stress on joints. For DN25 (1-inch O.D.) pipe, the maximum is 2.4 m (8 ft). * Reference: NFPA 99, 2024 Ed., Table 5.1.10.11.4.6. Reference: NFPA 99, 2024 Ed., Table 5.1.10.11.4.6",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A medical-surgical vacuum inlet must be able to draw a minimum of 85 Nl/min (3 SCFM) without reducing the vacuum pressure at an adjacent inlet below what level?",
+      "options": [
+        "250 mm (10 in.) HgV",
+        "300 mm (12 in.) HgV",
+        "380 mm (15 in.) HgV",
+        "510 mm (20 in.) HgV"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This operational test ensures the system is robust enough that using one vacuum inlet does not starve\nan adjacent one of necessary suction power, with 300 mm (12 in.) HgV being the minimum acceptable level. * Reference: NFPA 99, 2024 Ed., Section 5.1.12.4.10.4. Reference: NFPA 99, 2024 Ed., Section 5.1.12.4.10.4",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following joining methods is PROHIBITED for connecting medical gas piping?",
+      "options": [
+        "Brazing with a BCuP series filler metal.",
+        "Axially swaged fittings.",
+        "Flared and compression-type connections.",
+        "Gas Tungsten Arc Welding (GTAW)."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "These types of joints are explicitly prohibited in the piping distribution system because they are prone to loosening over time from vibration or temperature changes, which is unacceptable in a medical gas system. * Reference: NFPA 99, 2024 Ed., Section 5.1.10.10(1). Reference: NFPA 99, 2024 Ed., Section 5.1.10.10(1)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The medical air intake must be located a minimum of how far from any plumbing vent or vacuum discharge?",
+      "options": [
+        "3.0 m (10 ft)",
+        "6.1 m (20 ft)",
+        "7.6 m (25 ft)",
+        "15.2 m (50 ft)"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This minimum distance is required to ensure the compressor takes in clean source air, free from noxious fumes from vents and exhausts. * Reference: NFPA 99, 2024 Ed., Section 5.1.3.6.3.11(B). Reference: NFPA 99, 2024 Ed., Section 5.1.3.6.3.11(B)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A local alarm must activate for a medical air compressor system when the dew point at system pressure exceeds what temperature?",
+      "options": [
+        "-30°C (-22°F)",
+        "0°C (32°F)",
+        "+2°C (+35°F)",
+        "+10°C (+50°F)"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This alarm warns of a failure in the air drying system. The setpoint is just above freezing to ensure that liquid water does not condense in the pipeline, which could harbor bacteria or damage equipment. * Reference: NFPA 99, 2024 Ed., Section 5.1.3.6.3.13(1). Reference: NFPA 99, 2024 Ed., Section 5.1.3.6.3.13(1)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What documentation must an installer provide on the job site before beginning work on a medical gas system?",
+      "options": [
+        "A list of all tools and equipment to be used.",
+        "Proof of general liability insurance.",
+        "Qualification of brazing procedures and individual brazers.",
+        "The facility's emergency plan for medical gas shutdown."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Before any brazing work begins, the installer must be able to prove that their brazing process and their individual brazers are qualified according to ASME or AWS standards. * Reference: NFPA 99, 2024 Ed., Section 5.1.10.11.10.6. Reference: NFPA 99, 2024 Ed., Section 5.1.10.11.10.6",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A final tie-in to an existing, operating medical gas pipeline requires which specific test immediately after the connection is made?",
+      "options": [
+        "A 24-hour standing pressure test on the entire system.",
+        "A leak test of the final joint and a purge of outlets downstream of the work.",
+        "A full system verification by an ASSE 6030 Verifier.",
+        "A particulate test on the most remote outlet in the facility."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "When breaching a live system, the two\nimmediate concerns are ensuring the new connection is sound (leak test) and clearing out any contaminants introduced during the work (purge). * Reference: NFPA 99, 2024 Ed., Sections 5.1.12.4.9.2 and 5.1.12.4.9.4. Reference: NFPA 99, 2024 Ed., Sections 5.1.12.4.9.2 and 5.1.12.4.9.4",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Station outlets/inlets installed in a down-facing position, such as in a ceiling-mounted boom, must be what type of connector?",
+      "options": [
+        "Quick-connect",
+        "D.I.S.S. (Diameter Index Safety System)",
+        "Non-interchangeable proprietary connectors.",
+        "Any type, as long as it is gas-specific."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The secure, threaded nature of a D.I.S.S. connection is required for down-facing outlets to prevent heavy equipment (like a ventilator on a hose) from accidentally becoming disconnected and falling. * Reference: NFPA 99, 2024 Ed., Section 5.1.5.17. Reference: NFPA 99, 2024 Ed., Section 5.1.5.17",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The installation of medical gas and vacuum systems must be performed by technicians who are certified to which standard?",
+      "options": [
+        "ASSE 6030",
+        "ASSE 6010",
+        "ASSE 6040",
+        "ASSE 6020"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The code mandates that installers hold a current certification to the ASSE 6010 standard, which is the Professional Qualifications Standard for Medical Gas Systems Installers. * Reference: NFPA 99, 2024 Ed., Section 5.1.10.11.10.2. Reference: NFPA 99, 2024 Ed., Section 5.1.10.11.10.2",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the minimum size for a pipe drop to an individual medical gas station outlet?",
+      "options": [
+        "DN8 (NPS 1/4)",
+        "DN15 (NPS 1/2)",
+        "DN20 (NPS 3/4)",
+        "DN10 (NPS 3/8)"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "To ensure adequate flow to the patient, the final pipe run to an outlet must be no smaller than DN15 (which has a 5/8-inch outside diameter). * Reference: NFPA 99, 2024 Ed., Section 5.1.10.11.1.3(4). Reference: NFPA 99, 2024 Ed., Section 5.1.10.11.1.3(4)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A warning system for a Category 3 installation differs from Category 1 in that it:",
+      "options": [
+        "Does not require audible alarms.",
+        "Is permitted to be a single alarm panel (combination master/area).",
+        "Does not require power from the essential electrical system.",
+        "Only needs to monitor oxygen and vacuum."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "For Category 3 systems, the requirement for two separate master alarm panels is relaxed, and a single combination panel located in an area of continuous surveillance is acceptable. * Reference: NFPA 99, 2024 Ed., Section 5.3.9(1). Reference: NFPA 99, 2024 Ed., Section 5.3.9(1)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following must be documented as part of the facility's medical gas Operation and Management program?",
+      "options": [
+        "The brand of brazing torch used during installation.",
+        "The daily work schedule of the maintenance staff.",
+        "A periodic maintenance program for system components and inventories.",
+        "The cost of medical gas consumed each month."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "The Operation and Management section requires facilities to develop and document a comprehensive program that includes inventories of all components and a schedule for their inspection and maintenance. * Reference: NFPA 99, 2024 Ed., Sections 5.1.14.4.1 and 5.1.14.4.2.1. Reference: NFPA 99, 2024 Ed., Sections 5.1.14.4.1 and 5.1.14.4.2.1",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "If a medical gas pipe is installed underground within a building, it must be:",
+      "options": [
+        "Wrapped in a corrosion-resistant tape.",
+        "Installed in a continuous conduit.",
+        "Made of Type K copper only.",
+        "Buried at least 900 mm (36 in.) deep."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This requirement protects piping that is buried in concrete or walls from physical damage, corrosion, and makes future access possible. * Reference: NFPA 99, 2024 Ed., Section 5.1.10.11.2.2. Reference: NFPA 99, 2024 Ed., Section 5.1.10.11.2.2",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the standard color for identifying a WAGD (Waste Anesthetic Gas Disposal) system?",
+      "options": [
+        "White",
+        "Gray",
+        "Violet",
+        "Brown"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "Table 5.1.11 assigns violet as the unique color code for WAGD systems to easily distinguish them from all other medical gas and vacuum services. * Reference: NFPA 99, 2024 Ed., Table 5.1.11. Reference: NFPA 99, 2024 Ed., Table 5.1.11",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A particulate test on a new positive-pressure gas system requires filtering a minimum of 1000 L of gas through a 0.45 micron filter. What is the maximum allowable weight of accrued matter?",
+      "options": [
+        "0.001 g (1 mg)",
+        "0.010 g (10 mg)",
+        "0.100 g (100 mg)",
+        "No visible discoloration is the only requirement."
+      ],
+      "correct_answers": [
+        0
+      ],
+      "explanation": "This stringent verification test ensures the pipeline is exceptionally clean. The maximum allowable contamination is a tiny one milligram. * Reference: NFPA 99, 2024 Ed., Section 5.1.12.4.7.3. Reference: NFPA 99, 2024 Ed., Section 5.1.12.4.7.3",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The verifier's piping purity test checks for moisture, total non-methane hydrocarbons, and what other contaminant?",
+      "options": [
+        "Carbon Monoxide",
+        "Particulates",
+        "Halogenated hydrocarbons",
+        "Nitrogen concentration"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "The piping purity test looks for residual contaminants. Halogenated hydrocarbons are often found in cleaning solvents or thread sealants, and their presence would indicate the system was not properly cleaned or installed. * Reference: NFPA 99, 2024 Ed., Section 5.1.12.4.8.5. Reference: NFPA 99, 2024 Ed., Section 5.1.12.4.8.5",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The permit-to-work system, managed by the Responsible Facility Authority, must ensure that:",
+      "options": [
+        "Work is completed at the lowest possible cost.",
+        "Only in-house staff are allowed to perform work.",
+        "The affected medical staff are in communication prior to any system interruption.",
+        "The building's main fire alarm is disabled during work."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "The permit-to-work system is a formal communication process. Its most critical function is to ensure that clinical staff are aware of a planned shutdown so that patient care can be managed safely. * Reference: NFPA 99, 2024 Ed., Section 5.1.14.2.2(1). Reference: NFPA 99, 2024 Ed., Section 5.1.14.2.2(1)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Each length of copper tube used for medical gas service must be delivered and stored in what condition until prepared for installation?",
+      "options": [
+        "In a locked storage cabinet.",
+        "Plugged or capped by the manufacturer.",
+        "Wrapped in color-coded plastic.",
+        "Purged with nitrogen and pressurized."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The code requires that the factory-cleaned interior of medical gas tubing be protected from contamination at all times during shipping, storage, and handling by keeping the ends sealed. * Reference: NFPA 99, 2024 Ed., Section 5.1.10.1.2. Reference: NFPA 99, 2024 Ed., Section 5.1.10.1.2",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "If a facility converts an existing oxygen pipeline to be used for medical air, what must be done?",
+      "options": [
+        "The pipeline must be relabeled and the source equipment changed.",
+        "All requirements for a new system must be applied, including full testing and verification.",
+        "The system must be purged with medical air for 24 hours.",
+        "This type of conversion is prohibited."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Changing the gas service in a pipeline is a major modification. The code requires that the converted section be treated as a brand new installation, including undergoing all installer and verifier tests to ensure safety. * Reference: NFPA 99, 2024 Ed., Section 5.1.10.11.9.1. Reference: NFPA 99, 2024 Ed., Section 5.1.10.11.9.1",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the primary function of a secondary valve in a medical gas station outlet?",
+      "options": [
+        "To regulate the pressure of the gas.",
+        "To automatically stop the flow of gas when the primary valve is removed.",
+        "To provide a connection point for the verifier's test equipment.",
+        "To prevent cross-connections with other gases."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This is a key maintenance feature. The secondary valve (or check) allows the primary valve (the part users connect to) to be removed for service without having to shut down gas to the entire zone. * Reference: NFPA 99, 2024 Ed., Section 5.1.5.4. Reference: NFPA 99, 2024 Ed., Section 5.1.5.4",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When must pipe labels be located?",
+      "options": [
+        "Only at the source and at each station outlet.",
+        "At intervals not exceeding 6.1 m (20 ft), in every room, and on both sides of wall penetrations.",
+        "Only where the piping is visible in the room.",
+        "Wherever a change in direction of 90 degrees or more occurs."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The code's labeling requirements are comprehensive to ensure that a pipe's contents can be identified easily and frequently along its entire length. * Reference: NFPA 99, 2024 Ed., Section 5.1.11.1.4. Reference: NFPA 99, 2024 Ed., Section 5.1.11.1.4",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "For a Category 1 medical-surgical vacuum system, the area alarm must activate when the vacuum level drops to or below:",
+      "options": [
+        "510 mm (20 in.) HgV",
+        "380 mm (15 in.) HgV",
+        "300 mm (12 in.) HgV",
+        "250 mm (10 in.) HgV"
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This alarm setpoint provides a warning to clinical staff that the suction is failing and may not be adequate for medical procedures. * Reference: NFPA 99, 2024 Ed., Section 5.1.9.4.3. Reference: NFPA 99, 2024 Ed., Section 5.1.9.4.3",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "If flux is used when brazing dissimilar metals, what must be done to the joint after it has cooled?",
+      "options": [
+        "It must be polished with a wire wheel.",
+        "It must be cleaned by washing with water and a wire brush.",
+        "It must be coated with a protective lacquer.",
+        "It must be re-heated to burn off any excess flux."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Flux is acidic and can lead to corrosion. It must be completely removed with water (hot water is specified) and a brush so that the joint can be properly visually inspected. * Reference: NFPA 99, 2024 Ed., Section 5.1.10.4.7.1. Reference: NFPA 99, 2024 Ed., Section 5.1.10.4.7.1",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "An Emergency Oxygen Supply Connection (EOSC) is required when:",
+      "options": [
+        "Any facility uses a bulk liquid oxygen system.",
+        "A bulk liquid system is remote from the building and there is no connected in-building reserve.",
+        "The facility has more than 100 patient beds.",
+        "The local fire department mandates it for all hospitals."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The EOSC is a critical backup connection point for a temporary supply in case the main tank or the long exterior pipeline to the building is compromised. If a facility has an adequate backup supply already inside the building, an EOSC is not required. * Reference: NFPA 99, 2024 Ed., Section 5.1.3.5.12(1). Reference: NFPA 99, 2024 Ed., Section 5.1.3.5.12(1)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The contents of a medical gas cylinder must be identified by what means?",
+      "options": [
+        "The color of the cylinder.",
+        "An attached label or stencil naming the contents.",
+        "The type of valve connection.",
+        "A barcode scanned into the hospital inventory system."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The label is the only official means of identifying a cylinder's contents. Cylinder color is not a reliable indicator. * Reference: NFPA 99, 2024 Ed., Section 5.1.3.1.2. Reference: NFPA 99, 2024 Ed., Section 5.1.3.1.2",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the purpose of a check valve in the header of a gas cylinder manifold?",
+      "options": [
+        "To regulate the pressure coming from the cylinders.",
+        "To allow for easy replacement of the entire header.",
+        "To prevent backflow and allow service to the header.",
+        "To mix different gases from multiple cylinders."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "The check valve on the header outlet prevents gas from the rest of the system from flowing back into the manifold and allows one bank of cylinders to be changed out while the other bank is in service. * Reference: NFPA 99, 2024 Ed., Section 5.1.3.5.9(6). Reference: NFPA 99, 2024 Ed., Section 5.1.3.5.9(6)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "During the verifier's cross-connection test, what is done to ensure no systems are interconnected?",
+      "options": [
+        "All systems are pressurized to the same pressure and checked with one gauge.",
+        "Each system is individually pressurized while all others are at atmospheric pressure.",
+        "A tracer gas is introduced into the oxygen line and sniffed at all other outlets.",
+        "The installer provides a signed affidavit that no cross-connections exist."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "This method, known as the Individual Pressurization Method, is one of two ways to confirm that systems are not crossed. By pressurizing only one system, the verifier can check every outlet to ensure gas is flowing only where it should be. * Reference: NFPA 99, 2024 Ed., Section 5.1.12.4.3.1. Reference: NFPA 99, 2024 Ed., Section 5.1.12.4.3.1",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the correct action to take if a medical gas cylinder is received with a damaged or missing label?",
+      "options": [
+        "Use the cylinder color to identify the gas and put it into service.",
+        "Attach a temporary, handwritten label and use the cylinder.",
+        "The cylinder shall not be used.",
+        "Test the gas with an analyzer before using it."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "An unlabeled or incorrectly marked cylinder presents a significant risk. It must be taken out of service and returned to the supplier. * Reference: NFPA 99, 2024 Ed., Section 5.1.3.2.6. Reference: NFPA 99, 2024 Ed., Section 5.1.3.2.6",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A medical gas source room containing oxygen manifolds must be separated from the rest of the building by walls with what minimum fire resistance rating?",
+      "options": [
+        "30 minutes",
+        "1 hour",
+        "2 hours",
+        "No rating is required if the room has sprinklers."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "Due to the increased fire hazard from a large supply of an oxidizing gas like oxygen, the room must be enclosed by a 1-hour fire-rated assembly to contain a potential fire and allow for safe evacuation. * Reference: NFPA 99, 2024 Ed., Section 5.1.3.3.2.2(6). Reference: NFPA 99, 2024 Ed., Section 5.1.3.3.2.2(6)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The 24-hour standing pressure test performed by the installer must be witnessed by whom?",
+      "options": [
+        "Only the installing contractor's supervisor.",
+        "The hospital's chief financial officer.",
+        "An ASSE 6020 inspector, an ASSE 6030 verifier, or the authority having jurisdiction.",
+        "Any member of the hospital's maintenance staff."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "This critical 24-hour test of the entire piping installation must be formally witnessed and documented by a qualified and impartial party. * Reference: NFPA 99, 2024 Ed., Section 5.1.12.2.6.7. Reference: NFPA 99, 2024 Ed., Section 5.1.12.2.6.7",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What action must a medical air compressor's control system take if the high temperature sensor at the outlet of a compressor chamber activates?",
+      "options": [
+        "Activate an audible alarm but continue running.",
+        "Shut down that specific compressor and activate a local alarm.",
+        "Shut down the entire medical air system.",
+        "Automatically switch to the reserve cylinder header."
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "A high-temperature condition indicates a mechanical problem. The control system must shut down the malfunctioning compressor to prevent damage and alert maintenance personnel, while the redundant compressor takes over the load. * Reference: NFPA 99, 2024 Ed., Section 5.1.3.6.3.12(D). Reference: NFPA 99, 2024 Ed., Section 5.1.3.6.3.12(D)",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When can medical gas piping be painted?",
+      "options": [
+        "Any time, as long as the color matches the gas service.",
+        "Only in patient rooms for aesthetic reasons.",
+        "Medical gas piping shall not be painted.",
+        "Only after the system has been verified and is operational."
+      ],
+      "correct_answers": [
+        2
+      ],
+      "explanation": "The code states this explicitly. Painting can obscure the required manufacturer's markings and pipe labels that are critical for proper identification and safety. * Reference: NFPA 99, 2024 Ed., Section 5.1.11.1.5. Reference: NFPA 99, 2024 Ed., Section 5.1.11.1.5",
+      "time_used_seconds": 0
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The verifier's medical gas concentration test for a pipeline labeled 'Oxygen' must show what minimum concentration?",
+      "options": [
+        "93%",
+        "99%",
+        "20.9%",
+        "100%"
+      ],
+      "correct_answers": [
+        1
+      ],
+      "explanation": "The verifier must confirm that the gas meets the United States Pharmacopeia (USP) standard. For Oxygen USP, the minimum concentration is 99.0%. * Reference: NFPA 99, 2024 Ed., Table 5.1.12.4.11. Reference: NFPA 99, 2024 Ed., Table 5.1.12.4.11",
+      "time_used_seconds": 0
+    }
+  ],
+  "summary": {
+    "total_questions": 50,
+    "time_limit_minutes": 30,
+    "time_per_question_minutes": 0.6,
+    "note": "total_time_used_seconds will update dynamically as questions are attempted.",
+    "total_time_used_seconds": 0
+  }
+}
